@@ -14,6 +14,16 @@ A programmer with a passion for I-Ching studies, focusing on Four Pillars of Des
 
 3. 在线六爻起卦工具「朴散六爻排盘」
 支持电脑随机起卦、时间起卦、铜钱摇卦三种方式，严格遵循“年月日时”取卦规则，生成符合自然法则的卦象与动爻，方便爱好者论坛求测或自我分析。
-直达链接：http://6.66yao.cn 
+直达链接：http://6.66yao.cn
+
+As a programmer with a passion for I-Ching studies, I have developed the following three professional tools that combine my technical expertise with traditional cultural research. I warmly welcome you to try them out:
+1. AI-Powered Bazi Analysis System​
+Based on the traditional Ziping method and the essence of the "Blind School" (Mangpai), this system integrates a self-developed AI I-Ching model to provide personalized, in-depth Bazi analysis, offering insights for life planning.
+Direct link: https://ai.66yao.cn/bz.html
+2. All-in-One Divination Tool: "PuSan Divination Platform"​
+This platform offers professional divination tools, including Bazi charting, Ziwei Doushu, Qimen Dunjia (including Yin Pan and Mountain-Direction systems), Mei Hua Yi Shu, and Xuan Kong Flying Star. It also features practical utilities like perpetual calendars and traditional almanac selection tools. All functions are free and available for quick installation on Android and iOS.
+Direct link: http://8.66yao.cn
+3. Online Six Lines Divination Tool: "PuSan Six Yao Divination"​
+Supports three divination methods: computer-generated hexagrams, time-based hexagrams, and traditional coin-tossing. It strictly follows the rules of deriving hexagrams from "year, month, day, and hour" to generate hexagrams and moving lines that align with the laws of nature, making it ideal for enthusiasts seeking analysis on forums or for personal use.
 
 
