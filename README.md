@@ -25,5 +25,6 @@ This platform offers professional divination tools, including Bazi charting, Ziw
 Direct link: http://8.66yao.cn
 3. Online Six Lines Divination Tool: "PuSan Six Yao Divination"​
 Supports three divination methods: computer-generated hexagrams, time-based hexagrams, and traditional coin-tossing. It strictly follows the rules of deriving hexagrams from "year, month, day, and hour" to generate hexagrams and moving lines that align with the laws of nature, making it ideal for enthusiasts seeking analysis on forums or for personal use.
+Direct link: http://6.66yao.cn
 
 
